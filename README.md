@@ -115,9 +115,9 @@ Terima kasih sudah mengikuti perjalanan data kita hingga sejauh ini! 🎉
 Dari sekilo sampah rumah tangga hingga liter demi liter biogas,
 setiap angka punya cerita, dan setiap grafik bicara.
 📊 Dengan analisis yang jujur, visualisasi yang jelas, dan data yang transparan,
-kita sedang membangun masa depan hijau, bukan sekadar proyek singkat.
+kita sedang membangun masa depan hijau, bukan sekedar proyek singkat.
 Ini bukan hanya soal statistik tapi ini soal harapan, keberlanjutan, dan aksi nyata. 🌱💚
 Jadi, yuk teruskan langkah ini bersama:
-Satu data, satu desa, satu planet yang lebih baik. 🌍
+## Satu data, satu desa, satu planet yang lebih baik. 🌍
 
 
