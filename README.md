@@ -95,4 +95,16 @@ Organic_Waste_kg  Biogas_Produced_L  Biogas_Efficiency
 7.89              552.3              70.00
 ...
 
+---
+# 💡 Kesimpulan
+Analisis menunjukkan bahwa semakin tinggi volume sampah organik, semakin tinggi pula produksi biogas dan kredit energi yang diterima.
+Efisiensi konversi mencapai rata-rata sekitar 60-70 liter/kg, menunjukkan potensi nyata program ini dalam mendukung energi terbarukan lokal.
 
+# 🙌 Kontribusi
+Proyek ini terbuka untuk dikembangkan lebih lanjut:
+1. Visualisasi interaktif
+2. Integrasi ke Power BI / Tableau
+3. Model prediksi untuk perencanaan insentif
+
+# 🐢 Penutup
+Mari bersama membangun desa hijau berbasis data, satu kilogram sampah organik pada satu waktu! 🌿
