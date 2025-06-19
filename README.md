@@ -12,29 +12,28 @@ Pemerintah Indonesia menargetkan minimal 23% energi nasional berasal dari sumber
 
 ### 💰 Pajak karbon adalah biaya yang dikenakan pada aktivitas yang menghasilkan emisi CO₂, seperti membakar batu bara atau solar.
 Dengan mengolah sampah organik jadi biogas, Green Village membantu mengurangi emisi dan bisa jadi model penghindaran pajak karbon secara positif.
-### 🔎 Data efisiensi biogas → bisa menunjukkan potensi penghematan emisi karbon.
+🔎 Data efisiensi biogas → bisa menunjukkan potensi penghematan emisi karbon.
 
-### 🧼 Greenwashing itu semacam "bohong ramah lingkungan" — perusahaan atau proyek terlihat hijau, tapi kenyataannya tidak begitu.
-💡 Data dari Green Village sangat penting untuk membuktikan dampak nyata, supaya masyarakat dan investor tidak tertipu kampanye palsu.
-### 📊 Contoh: grafik biogas & rasio daur ulang = bukti bahwa ini bukan proyek "hijau-hijauan" doang!
+### 🧼 Greenwashing itu semacam "bohong ramah lingkungan"
+perusahaan atau proyek terlihat hijau, tapi kenyataannya tidak begitu.💡 Data dari Green Village sangat penting untuk membuktikan dampak nyata, supaya masyarakat dan investor tidak tertipu kampanye palsu. 📊 Contoh: grafik biogas & rasio daur ulang = bukti bahwa ini bukan proyek "hijau-hijauan" doang!
 
 ### 🌾 Konflik Lahan
 Program energi bisa memicu konflik lahan kalau membutuhkan area besar (misal sawit untuk biofuel). Tapi Green Village berbasis rumah tangga, tidak memerlukan pembukaan lahan besar.
-### 🚀 Dengan data yang menunjukkan bahwa sampah rumah bisa jadi energi, Green Village jadi solusi tanpa konflik.
+🚀 Dengan data yang menunjukkan bahwa sampah rumah bisa jadi energi, Green Village jadi solusi tanpa konflik.
 
 ### 🔄 Kaitan dengan Analisis Data & Dampak Jangka Panjang
 Semua topik ini saling terhubung lewat data:
-### > Data biogas & daur ulang → dukung energi hijau & cegah greenwashing
-### > Efisiensi → evaluasi program, penghematan karbon
-### > Output CSV & visualisasi → bahan transparansi dan perencanaan jangka panjang
+> Data biogas & daur ulang → dukung energi hijau & cegah greenwashing
+>  Efisiensi → evaluasi program, penghematan karbon
+>  Output CSV & visualisasi → bahan transparansi dan perencanaan jangka panjang
 
 ### 📦 Singkatnya: Analisis Green Village adalah cara pintar mengubah angka-angka kecil dari desa, menjadi langkah besar menuju Indonesia yang lebih hijau.
 
 ## 📘 Deskripsi Proyek
 
-Program **Green Village** adalah inisiatif berbasis masyarakat yang mengintegrasikan pengelolaan **sampah rumah tangga**, **produksi biogas**, dan **insentif energi** dalam rangka mendukung **transisi energi hijau** dan **ekonomi sirkular**.
+Program Green Village adalah inisiatif berbasis masyarakat yang mengintegrasikan pengelolaan sampah rumha tangga, produksi biogas, dan insentif energi dalam rangka mendukung transisi energo hijau dan ekonomi sikular.
 
-Analisis ini mencakup proses **pembersihan data**, **perhitungan fitur penting**, **visualisasi tren**, hingga **penyimpanan data akhir** yang siap digunakan untuk **pengambilan keputusan jangka panjang**.
+Analisis ini mencakup proses pembersihan data, perhitungan fitur penting, visualisasi tren, hingga penyimpanan data akhir yang siap digunakan untuk pengambilan keputusan jangka panjang.
 
 ---
 
@@ -97,11 +96,6 @@ Organic_Waste_kg  Biogas_Produced_L  Biogas_Efficiency
 ...
 
 ```
-
-# 💡 Kesimpulan Awal
-Analisis menunjukkan bahwa semakin tinggi volume sampah organik, semakin tinggi pula produksi biogas dan kredit energi yang diterima.
-Efisiensi konversi mencapai rata-rata sekitar 60-70 liter/kg, menunjukkan potensi nyata program ini dalam mendukung energi terbarukan lokal.
-
 # 💡 Kesimpulan
 Analisis menunjukkan bahwa semakin tinggi volume sampah organik, semakin tinggi pula produksi biogas dan kredit energi yang diterima.
 Efisiensi konversi mencapai rata-rata sekitar 60-70 liter/kg, menunjukkan potensi nyata program ini dalam mendukung energi terbarukan lokal.
@@ -114,7 +108,7 @@ Proyek ini terbuka untuk dikembangkan lebih lanjut:
 
 # 👨‍🏫💻📝SHARING SESSION BERSAMA PAK ARRY HUTOMO TENTANG ANALISIS DATA & DAMPAK JANGKA PANJANG: PROGRAM GREEN VILLAGE
 
-# 🐢 Penutup
+
 Mari bersama membangun desa hijau berbasis data, satu kilogram sampah organik pada satu waktu! 🌿
 
 Terima kasih sudah mengikuti perjalanan data kita hingga sejauh ini! 🎉
