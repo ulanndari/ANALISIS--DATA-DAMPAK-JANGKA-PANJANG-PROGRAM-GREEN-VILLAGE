@@ -1,4 +1,5 @@
 # ANALISIS--DATA-DAMPAK-JANGKA-PANJANG-PROGRAM-GREEN-VILLAGE
+![Alt](https://github.com/ulanndari/ANALISIS--DATA-DAMPAK-JANGKA-PANJANG-PROGRAM-GREEN-VILLAGE/blob/main/green_village.jpg.png?raw=true)
 ## Analisis Transisi Energi Hijau 2025 di Indonesia
 ### Hai, Sobat Hijau!
 Tahukah kamu, Indonesia menargetkan 23% energi kita berasal dari sumber terbarukan pada 2025? Nah, program seperti Green Village punya peran besar di sini, apalagi kalau datanya bisa membuktikan dampak positifnya secara nyata. 
