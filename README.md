@@ -1,19 +1,18 @@
 # ANALISIS--DATA-DAMPAK-JANGKA-PANJANG-PROGRAM-GREEN-VILLAGE
-### Analisis-Transisi-Energi-Hijau-2025-di-Indonesia
-### Workshop Eco Techno Leader: Analisis Transisi Energi 2025 🌱⚡:
-### Mari eksplorasi masa depan energi bersih! 🌍 Workshop ini kupas peluang &amp; tantangan transisi energi hijau di Indonesia 2025, dari kebijakan terbaru, teknologi terbarukan
-##### 🎯 Target 23% Energi Terbarukan di 2025
-Pemerintah Indonesia menargetkan minimal 23% energi nasional berasal dari sumber energi terbarukan pada tahun 2025. Artinya, energi seperti biogas, surya, dan air harus menggantikan sebagian energi fosil (batu bara, bensin, dll).
+## Analisis Transisi Energi Hijau 2025 di Indonesia
+### Hai, Sobat Hijau!
+Tahukah kamu, Indonesia menargetkan 23% energi kita berasal dari sumber terbarukan pada 2025? Nah, program seperti Green Village punya peran besar di sini — apalagi kalau datanya bisa membuktikan dampak positifnya secara nyata. 
+### Bayangkan kalau sampah di rumahmu 🍌🥬🍂🧴📦🛢️ bisa jadi energi 🔋⚡🔥, keren bangett guyss 💪😄🌈
+
+##### Pemerintah Indonesia menargetkan minimal 23% energi nasional berasal dari sumber energi terbarukan pada tahun 2025. Artinya, energi seperti biogas, surya, dan air harus menggantikan sebagian energi fosil (batu bara, bensin, dll).
 ##### 🔍 Green Village berkontribusi ke target ini lewat konversi sampah organik menjadi biogas — sumber energi lokal yang bersih dan terbarukan!
 
-##### 💰 Pajak Karbon
-Pajak karbon adalah biaya yang dikenakan pada aktivitas yang menghasilkan emisi CO₂, seperti membakar batu bara atau solar.
+##### 💰 Pajak karbon adalah biaya yang dikenakan pada aktivitas yang menghasilkan emisi CO₂, seperti membakar batu bara atau solar.
 Dengan mengolah sampah organik jadi biogas, Green Village membantu mengurangi emisi dan bisa jadi model penghindaran pajak karbon secara positif.
 ##### 🔎 Data efisiensi biogas → bisa menunjukkan potensi penghematan emisi karbon.
 
-##### 🧼 Greenwashing
-Greenwashing itu semacam "bohong ramah lingkungan" — perusahaan atau proyek terlihat hijau, tapi kenyataannya tidak begitu.
-##### 💡 Data dari Green Village sangat penting untuk membuktikan dampak nyata, supaya masyarakat dan investor tidak tertipu kampanye palsu.
+##### 🧼 Greenwashing itu semacam "bohong ramah lingkungan" — perusahaan atau proyek terlihat hijau, tapi kenyataannya tidak begitu.
+💡 Data dari Green Village sangat penting untuk membuktikan dampak nyata, supaya masyarakat dan investor tidak tertipu kampanye palsu.
 ##### 📊 Contoh: grafik biogas & rasio daur ulang = bukti bahwa ini bukan proyek "hijau-hijauan" doang!
 
 ##### 🌾 Konflik Lahan
