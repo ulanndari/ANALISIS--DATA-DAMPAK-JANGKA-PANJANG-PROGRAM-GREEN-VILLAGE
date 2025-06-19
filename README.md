@@ -32,7 +32,7 @@ Semua topik ini saling terhubung lewat data:
 
 ## 📘 Deskripsi Proyek
 
-Program Green Village adalah inisiatif berbasis masyarakat yang mengintegrasikan pengelolaan sampah rumha tangga, produksi biogas, dan insentif energi dalam rangka mendukung transisi energo hijau dan ekonomi sikular.
+Program Green Village adalah inisiatif berbasis masyarakat yang mengintegrasikan pengelolaan sampah rumha tangga, produksi biogas, dan insentif energi dalam rangka mendukung transisi energi hijau dan ekonomi sikular.
 
 Analisis ini mencakup proses pembersihan data, perhitungan fitur penting, visualisasi tren, hingga penyimpanan data akhir yang siap digunakan untuk pengambilan keputusan jangka panjang.
 
