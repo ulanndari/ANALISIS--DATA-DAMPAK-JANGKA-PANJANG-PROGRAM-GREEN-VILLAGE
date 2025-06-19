@@ -4,7 +4,7 @@
 Tahukah kamu, Indonesia menargetkan 23% energi kita berasal dari sumber terbarukan pada 2025? Nah, program seperti Green Village punya peran besar di sini, apalagi kalau datanya bisa membuktikan dampak positifnya secara nyata. 
 ### Bayangkan kalau sampah di rumahmu 🍌🥬🍂🧴📦🛢️ bisa jadi energi 🔋⚡🔥
 ### keren bangettkan guyss!! 💪😄🌈
-###  Pemerintah Indonesia menargetkan minimal 23% energi nasional berasal dari sumber energi terbarukan pada tahun 2025. Artinya, energi seperti biogas, surya, dan air harus menggantikan sebagian energi fosil (batu bara, bensin, dll).
+Pemerintah Indonesia menargetkan minimal 23% energi nasional berasal dari sumber energi terbarukan pada tahun 2025. Artinya, energi seperti biogas, surya, dan air harus menggantikan sebagian energi fosil (batu bara, bensin, dll).
 ### 🔍 Green Village berkontribusi ke target ini lewat konversi sampah organik menjadi biogas — sumber energi lokal yang bersih dan terbarukan!
 ### 💰 Pajak karbon adalah biaya yang dikenakan pada aktivitas yang menghasilkan emisi CO₂, seperti membakar batu bara atau solar.
 Dengan mengolah sampah organik jadi biogas, Green Village membantu mengurangi emisi dan bisa jadi model penghindaran pajak karbon secara positif.
