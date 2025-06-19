@@ -27,3 +27,83 @@ Program energi bisa memicu konflik lahan kalau membutuhkan area besar (misal saw
 ##### > Output CSV & visualisasi → bahan transparansi dan perencanaan jangka panjang
 
 #### 📦 Singkatnya: Analisis Green Village adalah cara pintar mengubah angka-angka kecil dari desa, menjadi langkah besar menuju Indonesia yang lebih hijau.
+
+
+## 📘 Deskripsi Proyek
+
+Program **Green Village** adalah inisiatif berbasis masyarakat yang mengintegrasikan pengelolaan **sampah rumah tangga**, **produksi biogas**, dan **insentif energi** dalam rangka mendukung **transisi energi hijau** dan **ekonomi sirkular**.
+
+Analisis ini mencakup proses **pembersihan data**, **perhitungan fitur penting**, **visualisasi tren**, hingga **penyimpanan data akhir** yang siap digunakan untuk **pengambilan keputusan jangka panjang**.
+
+---
+
+## 🧰 Library yang Digunakan
+
+- `pandas` – untuk pengelolaan data
+- `numpy` – untuk perhitungan numerik
+- `matplotlib` – untuk visualisasi grafik
+
+---
+
+## 📊 Tahapan Analisis
+
+### 1. Memuat & Membersihkan Data
+- Memuat data dari `green_village_data.csv`
+- Mengonversi tanggal ke format datetime
+- Menangani nilai hilang (NaN) dengan rata-rata
+
+### 2. Analisis & Perhitungan
+- Menghitung total sampah (`Total_Waste_kg`)
+- Menghitung rasio daur ulang (`Recycle_Ratio`)
+- Menghitung efisiensi biogas (`Biogas_Efficiency`)
+- Klasifikasi hasil (mis. kategori sampah dan efisiensi)
+
+### 3. Visualisasi
+- Tren harian sampah dan produksi biogas
+- Korelasi antara sampah organik dan kredit energi
+
+### 4. Penyimpanan Hasil
+- Menyimpan data yang telah dianalisis ke `green_village_analyzed.csv` 💾
+
+---
+
+## 🎯 Tujuan Proyek
+
+- Menilai **efektivitas konversi sampah ke energi**
+- Melacak **insentif berbasis kontribusi masyarakat**
+- Mendorong **transparansi dan edukasi berbasis data**
+- Menyiapkan data untuk **monitoring jangka panjang**, kebijakan energi lokal, dan integrasi dengan dasbor atau model ML
+
+---
+
+## 📁 Struktur File
+
+| File | Keterangan |
+|------|------------|
+| `green_village_data.csv` | Data mentah (input awal) |
+| `green_village_analyzed.csv` | Data hasil analisis |
+| `GreenVillage_Analysis.py` | Skrip Python utama |
+| `README.md` | Dokumentasi proyek |
+
+---
+
+## 🚀 Contoh Output (Singkat)
+
+```text
+Organic_Waste_kg  Biogas_Produced_L  Biogas_Efficiency
+4.56              273.6              60.00
+7.89              552.3              70.00
+...
+
+# 💡 Kesimpulan
+Analisis menunjukkan bahwa semakin tinggi volume sampah organik, semakin tinggi pula produksi biogas dan kredit energi yang diterima.
+Efisiensi konversi mencapai rata-rata sekitar 60-70 liter/kg, menunjukkan potensi nyata program ini dalam mendukung energi terbarukan lokal.
+
+# 🙌 Kontribusi
+Proyek ini terbuka untuk dikembangkan lebih lanjut:
+1. Visualisasi interaktif
+2. Integrasi ke Power BI / Tableau
+3. Model prediksi untuk perencanaan insentif
+
+# 🐢 Penutup
+Mari bersama membangun desa hijau berbasis data, satu kilogram sampah organik pada satu waktu! 🌿
