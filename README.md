@@ -23,9 +23,9 @@ Program energi bisa memicu konflik lahan kalau membutuhkan area besar (misal saw
 
 ### 🔄 Kaitan dengan Analisis Data & Dampak Jangka Panjang
 Semua topik ini saling terhubung lewat data:
-> Data biogas & daur ulang → dukung energi hijau & cegah greenwashing
->  Efisiensi → evaluasi program, penghematan karbon
->  Output CSV & visualisasi → bahan transparansi dan perencanaan jangka panjang
+1. Data biogas & daur ulang → dukung energi hijau & cegah greenwashing
+2. Efisiensi → evaluasi program, penghematan karbon
+3. Output CSV & visualisasi → bahan transparansi dan perencanaan jangka panjang
 
 ### 📦 Singkatnya: Analisis Green Village adalah cara pintar mengubah angka-angka kecil dari desa, menjadi langkah besar menuju Indonesia yang lebih hijau.
 
