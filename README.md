@@ -120,5 +120,5 @@ kita sedang membangun masa depan hijau, bukan sekedar proyek singkat.
 Ini bukan hanya soal statistik tapi ini soal harapan, keberlanjutan, dan aksi nyata. 🌱💚
 Jadi, yuk teruskan langkah ini bersama:
 ## Satu data, satu desa, satu planet yang lebih baik. 🌍
-
+bye bye 👋👋
 
